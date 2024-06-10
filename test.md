@@ -7,3 +7,5 @@ title: "Section 1"
 ---
 
 This is a test section.
+
+![image info](./fig/test.png)
